@@ -3,7 +3,7 @@ import urllib.parse
 
 def generate_high_quality_image(prompt):
     
-    enhanced_prompt = f"{prompt}, 8k resolution, cinematic lighting, masterpiece, highly detailed, high bitrate, clean shadows, smooth gradients, no compression artifacts, 16-bit color depth"
+    enhanced_prompt = f"{prompt}, 8k resolution, cinematic lighting, masterpiece, highly detailed, high bitrate, clean shadows, smooth gradients, no compression artifacts, 16-bit color depth, without watermark"
     
     encoded_prompt = urllib.parse.quote(enhanced_prompt)
     
