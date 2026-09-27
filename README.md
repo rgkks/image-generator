@@ -39,4 +39,4 @@ Enter your image prompt when prompted. The generated image will be saved as a JP
 
 | Car | Iron Man | Villa |
 |-----|----------|-------|
-| ![Car](car.jpg) | ![Iron Man](iron%20man%20.jpg) | ![Villa](villa.jpg) |
+| ![Car](car.jpg) | ![Iron Man](output.jpg) | ![Villa](villa.jpg) |
